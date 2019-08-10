@@ -53,6 +53,7 @@ function checkCollision(rock) {
   }
 }
 
+/*
 function createRock(x) {
   const rock = document.createElement('div')
 
@@ -115,6 +116,8 @@ function createRock(x) {
   // Finally, return the rock element you've created
   return rock
 }
+
+*/
 
 /**
  * End the game by clearing `gameInterval`,
